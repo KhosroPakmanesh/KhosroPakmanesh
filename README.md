@@ -186,11 +186,10 @@ Code samples and companion projects for my technical articles.
 
 Research-oriented work around software product line ideas in an equity market software ecosystem.
 
----
+### [sisu-steps](https://github.com/KhosroPakmanesh/sisu-steps) ([live working demo](https://khosropakmanesh.github.io/sisu-steps))
+A personal, local-first Finnish exercise notebook built for learning through repeated practice.
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KhosroPakmanesh&layout=compact" alt="Top languages" />
-</p>
+---
 
 <p align="center">
   <b>Building software is not only about code. It is about making complexity understandable.</b>
