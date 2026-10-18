@@ -44,12 +44,12 @@ I care about:
 
 * understanding the business problem before shaping the solution
 * clear domain boundaries and maintainable architecture
+* practical and cost-aware cloud design
 * incremental refactoring instead of unnecessary rewrites
 * reliable APIs, integrations, background services, and data flows
 * testable code supported by automated and integration tests
-* practical cloud design using Azure services
 * mentoring developers through real engineering problems
-* learning AI engineering with strong software foundations
+* continuous learning 
 
 ---
 
@@ -57,23 +57,30 @@ I care about:
 
 ### Agentic coding tools
 
+
+![Spec-Driven Development](https://img.shields.io/badge/Spec--Driven%20Development-111111?style=flat-square)
 ![Codex CLI](https://img.shields.io/badge/Codex%20CLI-111111?style=flat-square)
 ![Claude CLI](https://img.shields.io/badge/Claude%20CLI-111111?style=flat-square)
+![OpenCode](https://img.shields.io/badge/OpenCode-111111?style=flat-square)
+![Freebuf](https://img.shields.io/badge/Freebuf-111111?style=flat-square)
+![OpenRouter](https://img.shields.io/badge/OpenRouter-111111?style=flat-square)
 
-### AI and Python learning stack
+
+### AI and agent development stack
 
 ![Microsoft Agent Framework](https://img.shields.io/badge/Microsoft%20Agent%20Framework-512BD4?style=flat-square)
-![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=flat-square)
-![Pydantic AI](https://img.shields.io/badge/Pydantic%20AI-E92063?style=flat-square)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square\&logo=numpy\&logoColor=white)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square\&logo=scikitlearn\&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square\&logo=pytorch\&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square\&logo=fastapi\&logoColor=white)
 
 ### Languages and frameworks
 
 ![C#](https://img.shields.io/badge/C%23-512BD4?style=flat-square\&logo=csharp\&logoColor=white)
 ![ASP.NET Core](https://img.shields.io/badge/ASP.NET%20Core-512BD4?style=flat-square\&logo=dotnet\&logoColor=white)
+![ASP.NET MVC](https://img.shields.io/badge/ASP.NET%20MVC-111111?style=flat-square)
+![Razor](https://img.shields.io/badge/Razor-111111?style=flat-square)
+![WinUI](https://img.shields.io/badge/WinUI-111111?style=flat-square)
+![Windows Forms](https://img.shields.io/badge/Windows%20Forms-111111?style=flat-square)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square\&logo=javascript\&logoColor=black)
 ![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=flat-square\&logo=nestjs\&logoColor=white)
 ![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat-square\&logo=angular\&logoColor=white)
@@ -127,19 +134,6 @@ I care about:
 ![Autonomous](https://img.shields.io/badge/Autonomous-8E44AD?style=flat-square)
 ![Team Player](https://img.shields.io/badge/Team%20Player-2980B9?style=flat-square)
 ![Continuous Improvement](https://img.shields.io/badge/Continuous%20Improvement-F39C12?style=flat-square)
-
----
-
-## 🧩 What I like to build
-
-* business applications with clear domain models
-* APIs, integrations, and background services
-* Azure-based services and cloud-hosted applications
-* data migration and conversion pipelines
-* maintainable admin panels and internal tools
-* systems improved through refactoring, testing, and better boundaries
-* small AI experiments connected to real software problems
-* examples and demos for teaching software engineering concepts
 
 ---
 
