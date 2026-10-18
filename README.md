@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <b>Currently developing my AI engineering skills with the Python ecosystem.</b>
+  <b>Currently developing my AI engineering skills with Microsoft Agent Framework in C#/.NET</b>
 </p>
 
 <p align="center">
@@ -28,7 +28,7 @@ My core work is around **.NET**, **Azure**, **software architecture**, **legacy 
 
 I enjoy turning complex requirements and aging codebases into systems that are easier to understand, change, test, and extend. I care about practical architecture: clear boundaries, reliable behavior, maintainable code, and systems that can evolve without unnecessary rewrites.
 
-I am also actively developing my skills in **AI engineering using Python**. At this stage, I am focused on learning the foundations, building small practical experiments, and understanding how AI systems can be designed with the same engineering discipline used in reliable software systems.
+I am also actively developing my skills in **AI engineering**. I began my training with **Microsoft Agent Framework in C#/.NET**, focusing on foundational AI concepts through small practical experiments. My next step is to expand into the **Python agent development stack**. Throughout this journey, I aim to apply the same engineering discipline used in building reliable software systems.
 
 I write about software engineering at [Code with Khosro](https://www.codewithkhosro.dev/), where I share practical notes on architecture, refactoring, AI-assisted development, frontend migration, requirements engineering, and technical leadership.
 
@@ -38,7 +38,7 @@ I write about software engineering at [Code with Khosro](https://www.codewithkho
 
 ```txt
 Requirements → Domain Understanding → Architecture → Implementation → Testing → Evolution
-````
+```
 
 I care about:
 
@@ -62,9 +62,9 @@ I care about:
 
 ### AI and Python learning stack
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square\&logo=python\&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square\&logo=jupyter\&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square\&logo=pandas\&logoColor=white)
+![Microsoft Agent Framework](https://img.shields.io/badge/Microsoft%20Agent%20Framework-512BD4?style=flat-square)
+![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=flat-square)
+![Pydantic AI](https://img.shields.io/badge/Pydantic%20AI-E92063?style=flat-square)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square\&logo=numpy\&logoColor=white)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square\&logo=scikitlearn\&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square\&logo=pytorch\&logoColor=white)
@@ -130,23 +130,6 @@ I care about:
 
 ---
 
-## 🤖 AI engineering in progress
-
-I am currently building my foundation in AI engineering while connecting it to my existing software engineering experience.
-
-My focus areas are:
-
-* Python for AI and automation
-* data processing with Python libraries
-* machine learning fundamentals
-* LLM-based application patterns
-* AI-assisted software engineering workflows
-* integrating AI capabilities into practical software systems
-
-My goal is to approach AI engineering with the same mindset I apply to software architecture: clear boundaries, maintainable design, testability, and real-world usefulness.
-
----
-
 ## 🧩 What I like to build
 
 * business applications with clear domain models
@@ -188,6 +171,10 @@ Research-oriented work around software product line ideas in an equity market so
 
 ### [sisu-steps](https://github.com/KhosroPakmanesh/sisu-steps) ([live working demo](https://khosropakmanesh.github.io/sisu-steps))
 A personal, local-first Finnish exercise notebook built for learning through repeated practice.
+
+### [ai-engineering-training](https://github.com/KhosroPakmanesh/ai-engineering-training)
+
+Hands-on AI engineering training with Microsoft Agent Framework in C#/.NET.
 
 ---
 
