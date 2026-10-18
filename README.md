@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Khosro Pakmanesh</h1>
 
 <p align="center">
-  <b>Senior Software Engineer focused on architecture, refactoring, cloud systems, testing, and practical software education.</b>
+  <b>Senior Software Engineer focused on evolvable architecture, legacy system modernization, cloud-native systems, quality assurance, and practical software education.</b>
 </p>
 
 <p align="center">
@@ -22,15 +22,15 @@
 
 ## 👋 About
 
-I am a senior software engineer with more than a decade of experience building, modernizing, and maintaining business-critical software systems.
+I am a senior software engineer with more than 15+ years experience building, modernizing, and maintaining business-critical software systems.
 
-My core work is around **.NET**, **Azure**, **software architecture**, **legacy system modernization**, **testing**, and **developer mentoring**. I have worked on real-world systems involving APIs, integrations, admin panels, data conversion pipelines, ERP workflows, cloud services, and domain-heavy business applications.
+My core expertise lies in Microsoft technologies, particularly **C#/.NET**, and **Azure**, with a strong focus on software architecture, legacy system modernization, software testing, and mentoring developers. I have worked on real-world systems involving APIs, integrations, user-facing front-end-heavy apps, data manipulation and conversion pipelines, ERP systems, SaaS apps, and domain-heavy business apps.
 
 I enjoy turning complex requirements and aging codebases into systems that are easier to understand, change, test, and extend. I care about practical architecture: clear boundaries, reliable behavior, maintainable code, and systems that can evolve without unnecessary rewrites.
 
 I am also actively developing my skills in **AI engineering**. I began my training with **Microsoft Agent Framework in C#/.NET**, focusing on foundational AI concepts through small practical experiments. My next step is to expand into the **Python agent development stack**. Throughout this journey, I aim to apply the same engineering discipline used in building reliable software systems.
 
-I write about software engineering at [Code with Khosro](https://www.codewithkhosro.dev/), where I share practical notes on architecture, refactoring, AI-assisted development, frontend migration, requirements engineering, and technical leadership.
+I write about software engineering at [Code with Khosro](https://www.codewithkhosro.dev/), where I share practical notes on architecture, refactoring, AI-assisted development, full-stack development, and technical leadership.
 
 ---
 
