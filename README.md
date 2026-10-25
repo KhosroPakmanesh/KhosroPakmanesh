@@ -45,10 +45,10 @@ I'm interested in how **AI-assisted and agentic coding workflows** can improve s
 
 ## 🧩 What I work on
 
-- **Backend and full-stack applications:** Business applications, RESTful APIs, web interfaces, and SaaS products.
-- **Integrations and automation:** Third-party and ERP integrations, background processing, event-driven systems, and business workflows.
+- **Backend and full-stack apps:** Business applications, RESTful APIs, web interfaces, and SaaS products.
+- **Integrations:** Third-party and ERP integrations, background processing, event-driven systems, and business workflows.
 - **Azure and cloud services:** Azure Functions, serverless backends, messaging, storage, and cloud-hosted applications.
-- **Architecture and modernization:** Domain modeling, architectural reviews, legacy refactoring, performance improvements, and data migration.
+- **Architecture and modernization:** architectural reviews, legacy refactoring, performance improvements, and data migration.
 - **Engineering enablement:** Technical consulting, code reviews, mentoring, and practical development standards.
 
 ---
@@ -106,10 +106,10 @@ My deepest experience is with the Microsoft ecosystem. The broader map reflects 
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
 
 
-<details>
-<summary>Data and messaging</summary>
 
-### Data and messaging
+<details>
+<summary><strong>Data and messaging</strong></summary>
+<br>
 
 ![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=flat-square)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
@@ -122,38 +122,36 @@ My deepest experience is with the Microsoft ecosystem. The broader map reflects 
 </details>
 
 <details>
-<summary>Architecture and coding practices</summary>
+<summary><strong>Architecture and coding practices</strong></summary>
+<br>
 
-### Architecture and coding practices
-
-![Modular Monolith](https://img.shields.io/badge/Modular%20Monolith-6A5ACD?style=flat-square)
-![Vertical Slice Architecture](https://img.shields.io/badge/Vertical%20Slice-Architecture-6A5ACD?style=flat-square)
 ![Clean Architecture](https://img.shields.io/badge/Clean%20Architecture-2C3E50?style=flat-square)
-![DDD](https://img.shields.io/badge/Domain--Driven%20Design-0A66C2?style=flat-square)
+![Vertical Slice Architecture](https://img.shields.io/badge/Vertical%20Slice-Architecture-6A5ACD?style=flat-square)
+![Modular Monolith](https://img.shields.io/badge/Modular%20Monolith-6A5ACD?style=flat-square)
 ![Microservices](https://img.shields.io/badge/Microservices-FF6F00?style=flat-square)
 ![Integration Patterns](https://img.shields.io/badge/Integration%20Patterns-2C3E50?style=flat-square)
+![Event-Driven Patterns](https://img.shields.io/badge/Event--Driven%20Patterns-2C3E50?style=flat-square)
+![DDD](https://img.shields.io/badge/Domain--Driven%20Design-0A66C2?style=flat-square)
 ![SOLID](https://img.shields.io/badge/SOLID-Principles-2E8B57?style=flat-square)
 
 </details>
 
 <details>
-<summary>Testing</summary>
-
-### Testing
+<summary><strong>Testing</strong></summary>
+<br>
 
 ![xUnit](https://img.shields.io/badge/xUnit-5E2B97?style=flat-square)
 ![NUnit](https://img.shields.io/badge/NUnit-25A162?style=flat-square)
 ![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=flat-square&logo=selenium&logoColor=white)
-![TDD](https://img.shields.io/badge/TDD-111111?style=flat-square)
 ![Integration Testing](https://img.shields.io/badge/Integration%20Testing-34495E?style=flat-square)
 ![Performance Testing](https://img.shields.io/badge/Performance%20Testing-8E44AD?style=flat-square)
+![TDD](https://img.shields.io/badge/TDD-111111?style=flat-square)
 
 </details>
 
 <details>
-<summary>Ways of working</summary>
-
-### Ways of working
+<summary><strong>Ways of working</strong></summary>
+<br>
 
 ![Scrum](https://img.shields.io/badge/Scrum-2496ED?style=flat-square)
 ![Kanban](https://img.shields.io/badge/Kanban-00875A?style=flat-square)
