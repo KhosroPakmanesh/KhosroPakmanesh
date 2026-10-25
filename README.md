@@ -164,7 +164,7 @@ My deepest experience is with the Microsoft ecosystem. The broader map reflects 
 
 ## 🤝 Collaboration
 
-I'm open to **short-term and long-term projects**, including **full-time (100% allocation) and part-time engagements**, particularly in:
+I'm open to **short-term and long-term projects**, including **full-time and part-time engagements**, particularly in:
 
 - Full-stack and backend application development across different technology stacks.
 - APIs, ERP and third-party integrations, workflow automation, and SaaS solutions.
