@@ -186,8 +186,8 @@ At [Code with Khosro](https://www.codewithkhosro.dev/blog), I share practical no
 
 | Repository | Description |
 | :-- | :-- |
-| [BlogPosts](https://github.com/KhosroPakmanesh/BlogPosts) | Code samples and companion projects for my technical articles. |
-| [EquityMarketSoftwareEcosystem](https://github.com/KhosroPakmanesh/EquityMarketSoftwareEcosystem) | Research-oriented work around software product line ideas in an equity market software ecosystem. |
+| [blogposts](https://github.com/KhosroPakmanesh/blogposts) | Code samples and companion projects for my technical articles. |
+| [equity-market-software-ecosystem](https://github.com/KhosroPakmanesh/equity-market-software-ecosystem) | Research-oriented work around software product line ideas in an equity market software ecosystem. |
 | [sisu-steps](https://github.com/KhosroPakmanesh/sisu-steps) ([live demo](https://khosropakmanesh.github.io/sisu-steps)) | A personal, local-first Finnish exercise notebook built for learning through repeated practice. |
 | [ai-engineering-training](https://github.com/KhosroPakmanesh/ai-engineering-training) | Hands-on AI engineering experiments with Microsoft Agent Framework in C#/.NET. |
 ---
